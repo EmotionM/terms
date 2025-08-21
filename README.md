@@ -1,3 +1,14 @@
+---
+title: 使用條款（EULA） | EMo Terms of Use
+description: EMo iOS App 的使用條款（End User License Agreement）
+---
+
+# 使用條款（EULA）
+
+最後更新日期：2025-08-21
+
+在使用本 App 之前，請先閱讀以下條款。繼續使用即表示你同意並遵守本條款。
+
 # 使用條款（EULA）
 
 最後更新日期：2025-08-21
@@ -53,3 +64,20 @@
 ---
 
 繼續使用本 App，即表示你同意本《使用條款（EULA）》及其後續更新。我們可能不時修訂本條款，重大變更將在 App 內或本頁公告。
+
+
+---
+
+# Terms of Use (EULA) – English
+
+Last updated: 2025-08-21
+
+Please read these terms carefully before using the app. By continuing to use the app, you agree to be bound by these terms.
+
+(Paste your English terms here if available)
+
+
+
+
+
+
