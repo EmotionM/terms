@@ -1,3 +1,4 @@
+layout: none
 <style>
 /* 隱藏 GitHub Pages/Jekyll 頁首橫幅與頁尾（如有） */
 .page-header, .site-header, header, .navbar, .masthead { display: none !important; }
