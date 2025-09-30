@@ -1,3 +1,4 @@
+layout: none
 <style>
 /* Hide GitHub Pages/Jekyll header banner and footer if present */
 .page-header, .site-header, header, .navbar, .masthead { display: none !important; }
