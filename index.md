@@ -1,11 +1,7 @@
+---
 layout: none
-<style>
-/* 隱藏 GitHub Pages/Jekyll 頁首橫幅與頁尾（如有） */
-.page-header, .site-header, header, .navbar, .masthead { display: none !important; }
-footer, .site-footer { display: none !important; }
-/* 移除主內容的上方空白 */
-main { padding-top: 0 !important; }
-</style>
+---
+<style>/* Hide GitHub Pages/Jekyll header banner and footer if present */ .page-header, .site-header, header, .navbar, .masthead { display: none !important; } footer, .site-footer { display: none !important; } main { padding-top: 0 !important; } </style>
 
 # 使用條款（EULA）
 
