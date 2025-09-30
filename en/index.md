@@ -1,10 +1,7 @@
+---
 layout: none
-<style>
-/* Hide GitHub Pages/Jekyll header banner and footer if present */
-.page-header, .site-header, header, .navbar, .masthead { display: none !important; }
-footer, .site-footer { display: none !important; }
-main { padding-top: 0 !important; }
-</style>
+---
+<style>/* Hide GitHub Pages/Jekyll header banner and footer if present */ .page-header, .site-header, header, .navbar, .masthead { display: none !important; } footer, .site-footer { display: none !important; } main { padding-top: 0 !important; } </style>
 
 # EMo Terms of Service
 
